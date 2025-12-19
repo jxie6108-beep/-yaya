@@ -1,0 +1,7 @@
+{
+  "name": "Merry Christmas WebGL - Rococo Edition",
+  "description": "A high-end 3D interactive Christmas experience featuring hand tracking, particle systems, and a retro Rococo aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
